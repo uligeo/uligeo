@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ulises Hoil</h1>
-<h3 align="center">Proveedor Geoespacial Independiente · Científico Ambiental</h3>
+<h3 align="center">Desarrollador Geoespacial · DevOps · IA &amp; Data Science</h3>
 
 <p align="center">
   <a href="mailto:uliseshoilca@gmail.com">
@@ -14,10 +14,9 @@
 <table align="center">
 <tr><td>
 
-- 🌎 &nbsp;Proveedor independiente de **soluciones y análisis geoespacial**
+- 🌎 &nbsp;Desarrollo **soluciones y análisis geoespacial**
 - 🛰️ &nbsp;Trabajo con **teledetección, Sentinel-2 y procesamiento raster**
-- 🗺️ &nbsp;Especializado en **GeoDjango · PostGIS · H3** y analítica de localización
-- 🌱 &nbsp;Actualmente aprendiendo **GeoParquet, xarray y raster a escala**
+- 🗺️ &nbsp;Especializado en **GeoDjango · PostGIS**
 - 📫 &nbsp;Contáctame: **uliseshoilca@gmail.com**
 
 </td></tr>
