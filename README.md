@@ -13,12 +13,12 @@
 <table align="center">
 <tr><td>
 
-- 🌎 &nbsp;Desarrollo **soluciones geoespaciales**
-- 🤖 &nbsp;**Ciencia de datos e IA** aplicadas a información territorial
-- 🏬 &nbsp;**Inteligencia de localización** para retail, real estate y estudios de movilidad
-- 🛰️ &nbsp;Teledetección, análisis raster y datos satelitales
-- ⚙️ &nbsp;**DevOps**: contenedores, nube y automatización de pipelines
-- 📫 &nbsp;Contáctame: **uliseshoilca@gmail.com**
+- 🌎 &nbsp;Desarrollo de **soluciones geoespaciales**
+- 🤖 &nbsp;**Ciencia de datos e IA**
+- 🏬 &nbsp;**Inteligencia de localización** (retail · real estate · movilidad)
+- 🛰️ &nbsp;**Teledetección** y análisis raster
+- ⚙️ &nbsp;**DevOps** y nube
+- 📫 &nbsp;**uliseshoilca@gmail.com**
 
 </td></tr>
 </table>
