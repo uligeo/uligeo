@@ -13,7 +13,7 @@
 <table align="center">
 <tr><td>
 
-- 🌎 &nbsp;Desarrollo **soluciones geoespaciales** de extremo a extremo, del dato al despliegue
+- 🌎 &nbsp;Desarrollo **soluciones geoespaciales**, del dato al despliegue
 - 🤖 &nbsp;**Ciencia de datos e IA** aplicadas a información territorial
 - 🏬 &nbsp;**Inteligencia de localización** para retail, real estate y estudios de movilidad
 - 🛰️ &nbsp;Teledetección, análisis raster y datos satelitales
