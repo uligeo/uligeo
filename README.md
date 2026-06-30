@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/Email-uliseshoilca@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-M%C3%A9xico-006847?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Mexico"/>
-  <img src="https://komarev.com/ghpvc/?username=uligeo&style=for-the-badge&color=2F855A&label=Visitas" alt="Visitas al perfil"/>
 </p>
 
 ---
@@ -30,13 +29,3 @@
   </a>
 </p>
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=uligeo&show_icons=true&hide_border=true&title_color=2F855A&icon_color=2F855A" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uligeo&layout=compact&hide_border=true&title_color=2F855A&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uligeo&hide_border=true&ring=2F855A&fire=2F855A&currStreakLabel=2F855A" />
-</p>
